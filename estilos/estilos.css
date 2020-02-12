@@ -30,7 +30,7 @@ header a{
 header{
 	background: linear-gradient(rgba(84,93,220,.9), rgba(96,171,245,0.9)), url(../imagenes/fondo.jpg);
 	height: 100vh;
-	background-size: cover; 
+	background-size: cover;
 }
 
 #contenedor-titulo-flex{
@@ -55,7 +55,7 @@ h2{
 
 .contenedor-titulo a, #sobre-mi a{
 	font-size: 15px;
-	color: #fff;
+	color: #5cb8ff;
 	background: #5cb8ff;
 	padding: 14px 24px;
 	display: inline-block;
