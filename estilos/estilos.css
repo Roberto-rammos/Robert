@@ -47,6 +47,9 @@ h1{
 h2{
 	font-size: 25px;
 	color: #fff;
+	margin: 15px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 
 .contenedor-titulo{
